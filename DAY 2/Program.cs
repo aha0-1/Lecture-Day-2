@@ -1,12 +1,2 @@
-﻿using System;
-
-namespace DAY_2
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Welcome to MIS 3033");
-        }
-    }
-}
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
